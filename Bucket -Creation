@@ -1,0 +1,16 @@
+# Amazon S3 – Bucket Creation
+
+## Steps to Create an S3 Bucket
+1. Go to S3 service in AWS Console.
+2. Click “Create Bucket”.
+3. Enter a globally unique bucket name.
+4. Choose region (e.g., ap-south-1).
+5. Disable public access ONLY for testing
+   (Normally keep it enabled for security).
+6. Create the bucket.
+
+## Uploading Objects
+- Select bucket → Upload → Add files → Upload.
+
+## Bucket Policies
+Example public-read policy:
