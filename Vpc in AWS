@@ -1,0 +1,15 @@
+# VPC Basics
+
+## What I Practiced
+- Creating a new VPC with CIDR block.
+- Creating public and private subnets.
+- Attaching an Internet Gateway.
+- Creating Route Tables.
+- Launching EC2 into the VPC.
+
+## Learning Outcome
+Understanding networking inside AWS:
+- Subnets
+- Routing
+- IP addressing
+- Internet access configuration
