@@ -1,0 +1,20 @@
+# S3 Static Website Hosting Demo
+
+## Steps
+1. Open your S3 bucket.
+2. Go to “Properties”.
+3. Scroll to “Static website hosting”.
+4. Enable it and upload:
+   - index.html
+   - error.html (optional)
+5. Make objects public.
+6. Copy the website endpoint.
+
+## What I Hosted
+A simple HTML page using:
+- Basic HTML tags
+- Inline CSS
+- A welcome message
+
+## Learning Outcome
+I learned how websites can be hosted without servers using S3.
